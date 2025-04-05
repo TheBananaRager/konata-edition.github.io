@@ -1,1 +1,1 @@
-# konata-edition.github.io
+# mahiroproject.github.io
